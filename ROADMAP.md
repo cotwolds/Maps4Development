@@ -15,5 +15,17 @@ The project is divided into three phases:
 ### Stage 1
 Survey of available information will be located here: https://docs.google.com/spreadsheets/d/1j1RxKMDdDFOHMh3mf0252Lmmy4jjr_AWA6eTGNwAu-s/edit#gid=0
 
+1. Review existing material and on the internet. Find existing orgs or websites that provide lists.
+2. List on googledoc speadsheet.
+
 
 ### Stage 2
+
+1. Creation in python of map portal in specific geographic region
+2. Ingestion of open APIs, convert coordinates to lat.long. Extrapolate to map.
+3. Ingestion of external data (World Bank, IFC, SD4All etc) of existing projects
+4. Open call for data amoungst the development/NGO community to geotag pertinent info.
+
+### Stage 3
+1. Disceminate via email and newsletters map portal information.
+2. Hyper-link survey to get feedback on minimum viable information via end-users (interational development)
